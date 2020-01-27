@@ -1,0 +1,7 @@
+C:\Users\INCHBEG\source\repos\EncryptionDecryption\EncryptionDecryption\bin\Debug\EncryptionDecryption.exe.config
+C:\Users\INCHBEG\source\repos\EncryptionDecryption\EncryptionDecryption\bin\Debug\EncryptionDecryption.exe
+C:\Users\INCHBEG\source\repos\EncryptionDecryption\EncryptionDecryption\bin\Debug\EncryptionDecryption.pdb
+C:\Users\INCHBEG\source\repos\EncryptionDecryption\EncryptionDecryption\obj\Debug\EncryptionDecryption.csprojAssemblyReference.cache
+C:\Users\INCHBEG\source\repos\EncryptionDecryption\EncryptionDecryption\obj\Debug\EncryptionDecryption.csproj.CoreCompileInputs.cache
+C:\Users\INCHBEG\source\repos\EncryptionDecryption\EncryptionDecryption\obj\Debug\EncryptionDecryption.exe
+C:\Users\INCHBEG\source\repos\EncryptionDecryption\EncryptionDecryption\obj\Debug\EncryptionDecryption.pdb
