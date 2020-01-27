@@ -1,6 +1,6 @@
 FROM ubuntu:18.04
-mkdir executable
-copy .\EncryptionDecryption\EncryptionDecryption\bin\Debug\EncryptionDecryption.exe .\executable
+MKDIR executableREPO
+copy .\EncryptionDecryption\EncryptionDecryption\bin\Debug\EncryptionDecryption.exe .\executableREPO
 cd executable
 touch somefile.txt
 run cat/somefile.txt
